@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @angelyacto
 - 👀 I’m interested in mobile development, java, and back-end.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning javascript-Angular.
 - 💞️ I’m looking to collaborate on mobile projects or server-side.
 - 📫 How to reach me: e-mail: angelyacto18@gmail.com
 
